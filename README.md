@@ -16,18 +16,14 @@ In the project’s root directory, you’ll find the following files:
 - tree.py provides an entry-point script for you to run the application.
 
 Then you have the rptree/ directory that holds a Python package with three modules:
-
 - rptree.py provides the application’s main functionalities.
-- __init__.py enables rptree/ as a Python package.
+- \_\_init__.py enables rptree/ as a Python package.
 - cli.py provides the command-line interface for the application.
 
-
-
 <br>
 <br>
-
 
 ***
-__DISCLAIMER__
-```
-The material in this project is entirely taken from the above mentioned source - Realpython as provided. This is entirely for practice. I am not liable about any issues that would follow up from the source i.e. Realpython. In that case, please reach out to them. In case of copyright infringement, please notify me and we can resolve the issue.
+<h1 style="color:Crimson;"> <b>DISCLAIMER</b> </h1>
+
+_The material in this project is entirely taken from the above mentioned source - Realpython as provided. This is entirely for practice. I am not liable about any issues that would follow up from the source i.e. Realpython. In that case, please reach out to them. In case of copyright infringement, please notify me and we can resolve the issue._
