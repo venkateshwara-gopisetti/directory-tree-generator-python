@@ -5,7 +5,7 @@ import pathlib
 import sys
 
 from . import __version__
-from .rptree import DirectoryTree
+from .rptree_alt import DirectoryTree
 
 def main():
 
